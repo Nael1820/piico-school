@@ -1,0 +1,32 @@
+{
+	"storyName": "Pico's School Crashdown",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "crashdown",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Crashdown",
+			"cc",
+			[
+				46,
+				193,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "WeekCrashdown"
+}
