@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fg_characters.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BgCharacters0000" x="0" y="0" width="1934" height="887" frameX="0" frameY="-25" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0001" x="0" y="0" width="1934" height="887" frameX="0" frameY="-25" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0002" x="1934" y="0" width="1922" height="897" frameX="-7" frameY="-15" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0003" x="1934" y="0" width="1922" height="897" frameX="-7" frameY="-15" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0004" x="1934" y="0" width="1922" height="897" frameX="-7" frameY="-15" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0005" x="1934" y="0" width="1922" height="897" frameX="-7" frameY="-15" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0006" x="0" y="897" width="1892" height="912" frameX="-23" frameY="0" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0007" x="0" y="897" width="1892" height="912" frameX="-23" frameY="0" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0008" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0009" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0010" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0011" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0012" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0013" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0014" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0015" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0016" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0017" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0018" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+	<SubTexture name="BgCharacters0019" x="1892" y="897" width="1898" height="907" frameX="-20" frameY="-5" frameWidth="1934" frameHeight="912"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neneswag.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdleDance0000" x="0" y="0" width="367" height="402" frameX="0" frameY="-14" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0001" x="0" y="0" width="367" height="402" frameX="0" frameY="-14" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0002" x="367" y="0" width="362" height="404" frameX="-3" frameY="-12" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0003" x="367" y="0" width="362" height="404" frameX="-3" frameY="-12" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0004" x="729" y="0" width="354" height="404" frameX="-7" frameY="-12" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0005" x="729" y="0" width="354" height="404" frameX="-7" frameY="-12" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0006" x="1083" y="0" width="354" height="416" frameX="-7" frameY="0" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0007" x="1083" y="0" width="354" height="416" frameX="-7" frameY="0" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0008" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0009" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0010" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0011" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0012" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0013" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0014" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0015" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+	<SubTexture name="IdleDance0016" x="1437" y="0" width="354" height="415" frameX="-7" frameY="-1" frameWidth="367" frameHeight="416"/>
+</TextureAtlas>
