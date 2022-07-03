@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "IdleDance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "SingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				-76
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "SingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				4
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "SingUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "SingRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neneswag",
+	"position": [
+		660,
+		240
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-160,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
